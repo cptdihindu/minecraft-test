@@ -20,6 +20,7 @@ journeymap-1.19.2-5.9.8-forge.jar
 leawind_third_person-v2.2.0-mc1.19-1.19.2-forge.jar
 mowziesmobs-1.6.3.jar
 OptiFine_1.19.2_HD_U_I2.jar
+peter.jar
 projectvibrantjourneys-1.19.2-5.1.2.jar
 PuzzlesLib-v4.4.3-1.19.2-Forge.jar
 skin_changer-1.19-0.5.3.jar

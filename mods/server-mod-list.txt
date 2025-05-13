@@ -5,7 +5,6 @@ caelus-forge-1.19.2-3.0.0.6.jar
 cloth-config-8.3.134-forge.jar
 configured-2.1.1-1.19.2.jar
 CorgiLib-forge-1.19.2-1.0.0.34.jar
-cupboard-1.19.2-2.6.jar
 DungeonsArise-1.19.2-2.1.54-release.jar
 endrem_forge-5.2.1-R-1.19.X.jar
 Enhanced_Celestials-forge-1.19.2-2.1.0.6.jar

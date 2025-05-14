@@ -1,4 +1,3 @@
-newmod.jar
 YungsBetterDesertTemples-1.19.2-Forge-2.2.2.jar
 YungsBetterDungeons-1.19.2-Forge-3.2.2.jar
 YungsBetterEndIsland-1.19.2-Forge-1.0.jar

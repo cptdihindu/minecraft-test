@@ -1,0 +1,10 @@
+newmod.jar
+YungsBetterDesertTemples-1.19.2-Forge-2.2.2.jar
+YungsBetterDungeons-1.19.2-Forge-3.2.2.jar
+YungsBetterEndIsland-1.19.2-Forge-1.0.jar
+YungsBetterJungleTemples-1.19.2-Forge-1.0.1.jar
+YungsBetterMineshafts-1.19.2-Forge-3.2.1.jar
+YungsBetterNetherFortresses-1.19.2-Forge-1.0.6.jar
+YungsBetterOceanMonuments-1.19.2-Forge-2.1.1.jar
+YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar
+YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar
